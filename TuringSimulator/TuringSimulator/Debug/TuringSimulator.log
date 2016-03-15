@@ -1,0 +1,18 @@
+﻿Сборка начата 15.03.2016 23:23:50.
+     1>Проект "E:\testtest\TuringSimulator\TuringSimulator\TuringSimulator.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib SimulatorForm.cpp
+         SimulatorForm.cpp
+     1>e:\testtest\turingsimulator\turingsimulator\SimulatorForm.h(26): warning C4930: TuringMachine t(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+     1>e:\testtest\turingsimulator\turingsimulator\SimulatorForm.h(298): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\testtest\turingsimulator\turingsimulator\SimulatorForm.h(300): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\testtest\turingsimulator\turingsimulator\SimulatorForm.h(306): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\testtest\TuringSimulator\Debug\TuringSimulator.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\TuringSimulator.SimulatorForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\testtest\TuringSimulator\Debug\TuringSimulator.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\SimulatorForm.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         TuringSimulator.vcxproj -> E:\testtest\TuringSimulator\Debug\TuringSimulator.exe
+     1>Сборка проекта "E:\testtest\TuringSimulator\TuringSimulator\TuringSimulator.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.62
